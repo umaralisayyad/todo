@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/umaralisayyad/todo.git/static/css/main.447350c1.css",
+    "main.js": "/umaralisayyad/todo.git/static/js/main.22625d44.js",
+    "static/js/787.63e47474.chunk.js": "/umaralisayyad/todo.git/static/js/787.63e47474.chunk.js",
+    "index.html": "/umaralisayyad/todo.git/index.html",
+    "static/media/Delete.svg": "/umaralisayyad/todo.git/static/media/Delete.eac1a29b0fcadff53187f5785f9353f0.svg",
+    "main.447350c1.css.map": "/umaralisayyad/todo.git/static/css/main.447350c1.css.map",
+    "main.22625d44.js.map": "/umaralisayyad/todo.git/static/js/main.22625d44.js.map",
+    "787.63e47474.chunk.js.map": "/umaralisayyad/todo.git/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.447350c1.css",
+    "static/js/main.22625d44.js"
+  ]
+}
