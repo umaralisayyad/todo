@@ -1,0 +1,16 @@
+li{
+  list-style-type: none;
+  text-align: center;
+  margin-top: 55px;
+  font-size: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+button{
+  background: none;
+  border: none;
+}
+
+img{
+  margin-left : 200px;
+}

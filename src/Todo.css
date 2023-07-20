@@ -1,0 +1,5 @@
+button.btn-1:hover{
+border: 3px solid purple;
+color: #ff96ad;
+background-color: hsl(240, 65%, 53%);
+}
